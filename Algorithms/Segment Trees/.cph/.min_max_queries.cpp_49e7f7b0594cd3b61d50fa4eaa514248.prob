@@ -1,0 +1,1 @@
+{"name":"Local: min_max_queries","url":"d:\\DSA\\Nongamba-\\Algorithms\\Segment Trees\\min_max_queries.cpp","tests":[{"id":1707216226316,"input":"6\n1 2 3 4 5 6\n1\n2 5\n2\n2 678\n-1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Nongamba-\\Algorithms\\Segment Trees\\min_max_queries.cpp","group":"local","local":true}
