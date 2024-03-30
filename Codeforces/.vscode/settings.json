@@ -7,7 +7,11 @@
         "unordered_map": "cpp",
         "map": "cpp",
         "iostream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "xtree": "cpp",
+        "random": "cpp",
+        "algorithm": "cpp",
+        "list": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
