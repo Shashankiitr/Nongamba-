@@ -1,0 +1,5 @@
+1) agar kisi node pe "D" distance tak BFS laganae he to queue<pair<int, int>> ka se karna padega
+   jisme <node, dist_left> ka pair banega, aur push akrte jana he
+   🔥apply one condition to check weather dist_left > 0 or not otherwise continue
+
+
